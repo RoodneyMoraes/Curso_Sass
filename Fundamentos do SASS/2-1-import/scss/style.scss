@@ -1,0 +1,15 @@
+// IMPORTANDO ARQUIVO
+@import "colors";
+@import "buttons";
+
+$preto: #999;
+
+div {
+    background: $preto;
+    width: 300px;
+    height: 300px;
+    a {
+        color: pink;
+        background-color: blue;
+    }
+}
